@@ -36,28 +36,34 @@ Does permanent status on the UN Security Council make a difference on the most c
 - Non-permanent countries may discuss regional issues more
 ## Plots
 ![Word Cloud for Random Non-Permanent Countries](https://github.com/bafarris/un-debate-lda-topics/assets/155195678/3addbd4c-1f3f-4a60-a9a4-75e8d1960d41)
-Word Cloud - Non-Permanent Countries
+
 
 ![Word Cloud for Permanent Countries](https://github.com/bafarris/un-debate-lda-topics/assets/155195678/2ed28456-1e47-4424-9a1f-f6802e54169a)
-Word Cloud - Permanent Countries
+
+<img width="572" alt="Topic Table Permanent v  Not Permanent Photo" src="https://github.com/bafarris/un-debate-lda-topics/assets/155195678/612337ff-577b-40b2-8d3d-f9bb4b888e25">
+
+![Uploading Topic Table Non-Permanent Countries.png…]()
+
+<img width="496" alt="Topic Table Permanent Countries" src="https://github.com/bafarris/un-debate-lda-topics/assets/155195678/36d90d87-0610-49db-9c5c-348bbbc4fecf">
+
 
 ![Development Topics - By Country](https://github.com/bafarris/un-debate-lda-topics/assets/155195678/2a66fa5e-bc67-4dd1-b674-7715c31b606b)
-Development Topics - By Country 
+
 
 ![Development Topics - By Permanence](https://github.com/bafarris/un-debate-lda-topics/assets/155195678/9a32759d-67d5-4829-b0c0-f7da1d25e296)
-Development Topics - By Permanence
+
 
 ![Regional Topics Near or at Given Country - By Country](https://github.com/bafarris/un-debate-lda-topics/assets/155195678/aac25143-155b-422f-b12f-40913dbb96ba)
-Regional Topics - By Country
+
 
 ![Regional Topics Near or at Given Country - By Permanence](https://github.com/bafarris/un-debate-lda-topics/assets/155195678/daad207a-967e-43ba-9499-546705cf3425)
-Regional Topics - By Permanence
+
 
 ![Security Topics - By Country](https://github.com/bafarris/un-debate-lda-topics/assets/155195678/cee060fa-f296-437c-af8e-5602fbf0c88e)
-Security Topics - By Country
+
 
 ![Security Topics - By Permanence](https://github.com/bafarris/un-debate-lda-topics/assets/155195678/6f335448-471b-43c0-871e-6f991b262ed3)
-Security Topics - By Permanence
+
 
 ## Limitations and Next Steps
 - Topic label assignment could have been inaccurate

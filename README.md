@@ -42,7 +42,7 @@ Does permanent status on the UN Security Council make a difference on the most c
 
 <img width="572" alt="Topic Table Permanent v  Not Permanent Photo" src="https://github.com/bafarris/un-debate-lda-topics/assets/155195678/612337ff-577b-40b2-8d3d-f9bb4b888e25">
 
-![Uploading Topic Table Non-Permanent Countries.png…]()
+<img width="496" alt="Topic Table Permanent Countries" src="https://github.com/bafarris/un-debate-lda-topics/assets/155195678/1e61d1d8-bc86-4eb5-8533-0db82cd14709">
 
 <img width="496" alt="Topic Table Permanent Countries" src="https://github.com/bafarris/un-debate-lda-topics/assets/155195678/36d90d87-0610-49db-9c5c-348bbbc4fecf">
 
